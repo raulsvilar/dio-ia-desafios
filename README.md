@@ -1,3 +1,5 @@
-# dio-ia-desafios
+# desafio-excel-dio
+Desafio Excel DIO
 
-Cada branch contém um desafio do bootcamp de IA da DIO
+
+Como organizar sua vida Financeira com Planilhas Inteligentes e IA
